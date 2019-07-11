@@ -1,8 +1,7 @@
 # mysql8.0-php7.2-apache2.4-docker
 
-Docker example with Apache, MySql 8.0, PhpMyAdmin and Php7
-
-I use docker-compose as an orchestrator. To run these containers:
+- Docker example with Apache, MySql 8.0, PhpMyAdmin and Php7
+- docker-compose orchestrator
 
 ```
 docker-compose up -d
