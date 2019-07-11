@@ -1,9 +1,6 @@
 version: "3.1"
 services:
 
-#    www:
-#        image: nu11secur1ty/suse-apache-docker-php7
-#        ports: 
     www:
          build: .
          ports: 
