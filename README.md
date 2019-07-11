@@ -8,7 +8,9 @@ docker-compose up -d
 ```
 
 Open phpmyadmin at [http://localhost:8000](http://localhost:8000)
+
 =====================================================================
+
 Open web browser to look php7 at [http://localhost:8001](http://localhost:8001)
 
 Run mysql client:
