@@ -16,11 +16,11 @@ docker-compose up -d
 
 =====================================================================
 
-- Open web browser to look php7 at [http://localhost:8001](http://localhost:8001)
+- Open web browser to look php7 at [http://localhost:8001/info.php](http://localhost:8001/info.php)
 
 =====================================================================
 
-- Open app.php to look at [http://localhost:8001/app.php](http://localhost:8001/app.php)
+- Open app.php on [http://localhost:8001/app.php](http://localhost:8001/app.php)
 
 Run mysql client:
 
