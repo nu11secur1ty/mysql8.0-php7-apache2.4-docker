@@ -5,7 +5,7 @@
 
 - Get docker
 ```bash
-git clone https://github.com/nu11secur1ty/mysql8.0-php7.2-apache2.4-docker.git
+git clone https://github.com/nu11secur1ty/mysql8.0-php7-apache2.4-docker.git
 ```
 - Compose
 ```
